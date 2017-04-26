@@ -10,8 +10,8 @@ Async implementations with
 * Promises
 
 
-TO DO
------
+Task for implementation
+-----------------------
 
 * Load item from DB
 * Get update for item
@@ -30,6 +30,10 @@ Implementations
 * 006 - Parallel processing
 * 007 - Final result with error handling and other
 
+
+Limitations
+-----------
+* fetch stub function is not implemented fully, need to implement stub result depending on request
 
 Benchmark
 ---------
