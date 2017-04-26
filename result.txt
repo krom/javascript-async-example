@@ -1,0 +1,7 @@
+Callback x 20,204 ops/sec ±39.44% (12 runs sampled)
+Promise x 121,761 ops/sec ±1.37% (82 runs sampled)
+CO x 24,382 ops/sec ±5.94% (68 runs sampled)
+native Async x 74,683 ops/sec ±5.26% (71 runs sampled)
+lib Async x 72,045 ops/sec ±2.59% (78 runs sampled)
+Fastest is Promise
+Slowest is Callback
