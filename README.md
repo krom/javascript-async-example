@@ -29,3 +29,9 @@ Implementations
 * 005 - Wait for report
 * 006 - Parallel processing
 * 007 - Final result with error handling and other
+
+
+Benchmark
+---------
+
+Run `node benchmark.js` for real test or see `result.txt` for exists benchmark result (Tested on *2,2 GHz Intel Core i7*)
