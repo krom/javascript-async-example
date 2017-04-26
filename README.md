@@ -34,4 +34,4 @@ Implementations
 Benchmark
 ---------
 
-Run `node benchmark.js` for real test or see [result.txt](result.txt) for exists benchmark result (Tested on *2,2 GHz Intel Core i7*)
+Run `node benchmark.js` for real test or see [benchmark.txt](benchmark.txt) for exists benchmark result (Tested on *2,2 GHz Intel Core i7*)
